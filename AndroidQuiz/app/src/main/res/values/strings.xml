@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+    <string name="textview_question">A ConstraintLayout is a example of a Layout</string>
+    <string name="textview_progress">Question 1 of 10</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+
+    <string name="question_1">A ConstraintLayout is a example of a Layout</string>
+    <string name="question_2">An example of a view is a Button</string>
+    <string name="question_3">There are two types of LinearLayout, match_parent and wrap_content</string>
+    <string name="question_4">An activity is a single, focused thing that the user can do</string>
+    <string name="question_5">The default orientation of a LinearLayout is horizontal</string>
+    <string name="question_6">TextViews are used to show images</string>
+    <string name="question_7">All the strings resources must be stored in strings.xml</string>
+    <string name="question_8">MVC is an algorithm to solve a computational problem</string>
+    <string name="question_9">The class R is used to find resources in your Java classes</string>
+    <string name="question_10">Android programming is done in Swift programming language</string>
+
+    <string name="alertDialog_title">Congratulations, you finished the quiz!</string>
+    <string name="alertDialog_text">What do you want to do next?</string>
+</resources>
