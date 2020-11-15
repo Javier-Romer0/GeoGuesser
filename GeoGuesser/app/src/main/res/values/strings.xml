@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GeoGuesser</string>
+    <string name="button_hint">Hint</string>
+
+    <string name="question_1">In which city can we find the Eiffel Tower?</string>
+    <string name="question_2">In which city can we find the Statue of Liberty?</string>
+    <string name="question_3">In which city can we find the Big Ben?</string>
+    <string name="question_4">In which city can we find the Colosseum?</string>
+    <string name="question_5">In which country can we find the Taj Mahal?</string>
+    <string name="question_6">In which country can we find the Sidney Opera House?</string>
+    <string name="question_7">In which country can we find the Moais?</string>
+    <string name="question_8">In which city can we find the Red Square?</string>
+    <string name="question_9">In which city can we find the Alhambra?</string>
+    <string name="question_10">In which country can we find the Pyramids of Chichen Itza?</string>
+    <string name="question_11">In which country can we find the Great Pyramid of Giza?</string>
+    <string name="question_12">In which city can we find the Sagrada Familia?</string>
+    <string name="question_13">In which city can we find the Golden Gate?</string>
+    <string name="question_14">In which city can we find the Parthenon?</string>
+    <string name="question_15">In which city can we find the Brandenburg Gate?</string>
+    <string name="question_16">In which country can we find the Angkor Wat?</string>
+    <string name="question_17">In which city can we find the Lincoln Memorial?</string>
+    <string name="question_18">In which city can we find Christ the Redeemer?</string>
+    <string name="question_19">In which country can we find Petra?</string>
+    <string name="question_20">In which country can we find Machu Picchu?</string>
+</resources>
